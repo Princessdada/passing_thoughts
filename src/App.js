@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import ReactDOM from "react-dom";
 import { AddThoughtForm } from "./AddThoughtForm";
 import { Thought } from "./Thoughts";
 import { generateId, getNewExpirationTime } from "./utilities";
